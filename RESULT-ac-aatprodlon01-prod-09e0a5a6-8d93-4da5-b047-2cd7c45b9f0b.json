@@ -1,0 +1,12 @@
+{
+    "Items": [
+        {
+            "testid": {
+                "S": "0fsYqyoaKkPH7MlWDs2isp"
+            }
+        }
+    ],
+    "Count": 1,
+    "ScannedCount": 1,
+    "ConsumedCapacity": null
+}

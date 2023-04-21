@@ -1,0 +1,19 @@
+{
+  "name": "utd-908",
+  "version": "1.0.0",
+  "description": "",
+  "main": "electron.js",
+  "scripts": {
+    "start": "electron --trace-warnings --remote-debugging-port=9222 .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Sullard",
+  "license": "ISC",
+  "dependencies": {
+    "dynamodb-parser": "^1.0.0",
+    "electron": "^23.2.1",
+    "electron-chrome-extensions": "^3.10.0",
+    "fs-extra": "^11.1.1",
+    "jsonwebtoken": "^9.0.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "description": "PSI In-application extension for Chrome",
+   "externally_connectable": {
+      "matches": [ "*://*.enlightks.com/*", "*://*.enlight.net/*", "*://*.psionline.com/*", "*://*.psiexams.com/*", "*://*.skillsbox.com/*", "*://localhost/*", "file://*" ]
+   },
+   "icons": {
+      "128": "logo128.png",
+      "16": "logo16.png",
+      "32": "logo32.png",
+      "48": "logo48.png"
+   },
+   "id": "leneiifcmnfminekdbgbofkdddlkhcep",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9w4yhlH+ppqdgc9keK/lqffyh/j2/R2XjsBeeVtG5XL9Ywd0n2Mu1wiYQlDXhiE04j+XmDyKH9fxgIHWc3IP/VGMYJiKErfCY5Bnck9Ejke2m4JEg2p1aMEPBqY/I41MoYbW+/trMliZEK+WMGubxC1iSFT/uFiKI8tXV0UPP2E8E/9DIfg2gKmvH5FYZZDkS/nF9vLNtDPj/3Atli3LPeejMkhhcsnfa+N8Y8yss4+0yncHS9eiwtQkvpwXQYhGBtqc0Hi4TUsyBupp43sEIWMPatlOtZTD3wHplxg+UEfF93+SAKxidldrBsC7qajIptopkY2H5EJ+JkZg0Qg3/QIDAQAB",
+   "manifest_version": 2,
+   "name": "PSI In-application Extension",
+   "permissions": [ "nativeMessaging" ],
+   "version": "1.0.0.10"
+}
